@@ -34,4 +34,3 @@ Extra bonus:
 
 - Add a button to mark all TODOs in the list as *completed* or mark all as *active* if they where already mark as completed.
 - Add a number indicator telling how many *active* TODOs remain on the list
-- 
